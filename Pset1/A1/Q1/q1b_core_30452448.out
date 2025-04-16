@@ -1,0 +1,670 @@
+Running simulation with 1 core(s)...
+Elapsed time: 2.4675 seconds
+AOT-compiled simulation took: 0.0267 seconds
+AOT-compiled simulation took: 0.0229 seconds
+1 cores, 1000 lifetimes: 0.0236 seconds
+Running simulation with 2 core(s)...
+Elapsed time: 2.6870 seconds
+AOT-compiled simulation took: 0.0271 seconds
+AOT-compiled simulation took: 0.0222 seconds
+Elapsed time: 2.6264 seconds
+AOT-compiled simulation took: 0.0282 seconds
+AOT-compiled simulation took: 0.0219 seconds
+2 cores, 1000 lifetimes: 0.0137 seconds
+Running simulation with 3 core(s)...
+Elapsed time: 2.5847 seconds
+AOT-compiled simulation took: 0.0272 seconds
+AOT-compiled simulation took: 0.0219 seconds
+Elapsed time: 2.4994 seconds
+AOT-compiled simulation took: 0.0287 seconds
+AOT-compiled simulation took: 0.0230 seconds
+Elapsed time: 2.4847 seconds
+AOT-compiled simulation took: 0.0297 seconds
+AOT-compiled simulation took: 0.0264 seconds
+3 cores, 1000 lifetimes: 0.0096 seconds
+Running simulation with 4 core(s)...
+Elapsed time: 2.5845 seconds
+AOT-compiled simulation took: 0.0298 seconds
+AOT-compiled simulation took: 0.0236 seconds
+Elapsed time: 2.6079 seconds
+AOT-compiled simulation took: 0.0287 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.6501 seconds
+AOT-compiled simulation took: 0.0283 seconds
+AOT-compiled simulation took: 0.0225 seconds
+Elapsed time: 2.5771 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0247 seconds
+4 cores, 1000 lifetimes: 0.0059 seconds
+Running simulation with 5 core(s)...
+Elapsed time: 2.5371 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0253 seconds
+Elapsed time: 2.6853 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0216 seconds
+Elapsed time: 2.6117 seconds
+AOT-compiled simulation took: 0.0282 seconds
+AOT-compiled simulation took: 0.0236 seconds
+Elapsed time: 2.5461 seconds
+AOT-compiled simulation took: 0.0299 seconds
+AOT-compiled simulation took: 0.0231 seconds
+Elapsed time: 2.5413 seconds
+AOT-compiled simulation took: 0.0294 seconds
+AOT-compiled simulation took: 0.0234 seconds
+5 cores, 1000 lifetimes: 0.0048 seconds
+Running simulation with 6 core(s)...
+Elapsed time: 2.6369 seconds
+AOT-compiled simulation took: 0.0301 seconds
+AOT-compiled simulation took: 0.0232 seconds
+Elapsed time: 2.4962 seconds
+AOT-compiled simulation took: 0.0288 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.6629 seconds
+AOT-compiled simulation took: 0.0296 seconds
+AOT-compiled simulation took: 0.0228 seconds
+Elapsed time: 2.6135 seconds
+AOT-compiled simulation took: 0.0297 seconds
+AOT-compiled simulation took: 0.0229 seconds
+Elapsed time: 2.4684 seconds
+AOT-compiled simulation took: 0.0293 seconds
+AOT-compiled simulation took: 0.0227 seconds
+Elapsed time: 2.5395 seconds
+AOT-compiled simulation took: 0.0291 seconds
+AOT-compiled simulation took: 0.0232 seconds
+6 cores, 1000 lifetimes: 0.0044 seconds
+Running simulation with 7 core(s)...
+Elapsed time: 2.7736 seconds
+AOT-compiled simulation took: 0.0288 seconds
+AOT-compiled simulation took: 0.0217 seconds
+Elapsed time: 2.6367 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0226 seconds
+Elapsed time: 2.6708 seconds
+AOT-compiled simulation took: 0.0297 seconds
+AOT-compiled simulation took: 0.0225 seconds
+Elapsed time: 2.5314 seconds
+AOT-compiled simulation took: 0.0303 seconds
+AOT-compiled simulation took: 0.0245 seconds
+Elapsed time: 2.4838 seconds
+AOT-compiled simulation took: 0.0291 seconds
+AOT-compiled simulation took: 0.0241 seconds
+Elapsed time: 2.5322 seconds
+AOT-compiled simulation took: 0.0298 seconds
+AOT-compiled simulation took: 0.0241 seconds
+Elapsed time: 2.5855 seconds
+AOT-compiled simulation took: 0.0293 seconds
+AOT-compiled simulation took: 0.0228 seconds
+7 cores, 1000 lifetimes: 0.0038 seconds
+Running simulation with 8 core(s)...
+Elapsed time: 2.8251 seconds
+AOT-compiled simulation took: 0.0292 seconds
+AOT-compiled simulation took: 0.0223 seconds
+Elapsed time: 2.6830 seconds
+AOT-compiled simulation took: 0.0297 seconds
+AOT-compiled simulation took: 0.0229 seconds
+Elapsed time: 2.5769 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.5952 seconds
+AOT-compiled simulation took: 0.0294 seconds
+AOT-compiled simulation took: 0.0245 seconds
+Elapsed time: 2.5850 seconds
+AOT-compiled simulation took: 0.0303 seconds
+AOT-compiled simulation took: 0.0240 seconds
+Elapsed time: 2.5643 seconds
+AOT-compiled simulation took: 0.0301 seconds
+AOT-compiled simulation took: 0.0253 seconds
+Elapsed time: 2.5394 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0245 seconds
+Elapsed time: 2.6358 seconds
+AOT-compiled simulation took: 0.0303 seconds
+AOT-compiled simulation took: 0.0236 seconds
+8 cores, 1000 lifetimes: 0.0034 seconds
+Running simulation with 9 core(s)...
+Elapsed time: 2.6061 seconds
+AOT-compiled simulation took: 0.0298 seconds
+AOT-compiled simulation took: 0.0236 seconds
+Elapsed time: 2.6722 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0222 seconds
+Elapsed time: 2.5590 seconds
+AOT-compiled simulation took: 0.0303 seconds
+AOT-compiled simulation took: 0.0242 seconds
+Elapsed time: 2.5577 seconds
+AOT-compiled simulation took: 0.0313 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.5767 seconds
+AOT-compiled simulation took: 0.0299 seconds
+AOT-compiled simulation took: 0.0249 seconds
+Elapsed time: 2.5366 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.6231 seconds
+AOT-compiled simulation took: 0.0301 seconds
+AOT-compiled simulation took: 0.0226 seconds
+Elapsed time: 2.4692 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0243 seconds
+Elapsed time: 2.4531 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0241 seconds
+9 cores, 1000 lifetimes: 0.0031 seconds
+Running simulation with 10 core(s)...
+Elapsed time: 2.8191 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0226 seconds
+Elapsed time: 2.5520 seconds
+AOT-compiled simulation took: 0.0301 seconds
+AOT-compiled simulation took: 0.0235 seconds
+Elapsed time: 2.5445 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.5211 seconds
+AOT-compiled simulation took: 0.0303 seconds
+AOT-compiled simulation took: 0.0248 seconds
+Elapsed time: 2.6511 seconds
+AOT-compiled simulation took: 0.0316 seconds
+AOT-compiled simulation took: 0.0244 seconds
+Elapsed time: 2.6223 seconds
+AOT-compiled simulation took: 0.0301 seconds
+AOT-compiled simulation took: 0.0234 seconds
+Elapsed time: 2.4550 seconds
+AOT-compiled simulation took: 0.0297 seconds
+AOT-compiled simulation took: 0.0246 seconds
+Elapsed time: 2.5494 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0253 seconds
+Elapsed time: 2.4642 seconds
+AOT-compiled simulation took: 0.0301 seconds
+AOT-compiled simulation took: 0.0264 seconds
+Elapsed time: 2.6422 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0233 seconds
+10 cores, 1000 lifetimes: 0.0027 seconds
+Running simulation with 11 core(s)...
+Elapsed time: 2.6244 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0246 seconds
+Elapsed time: 2.5691 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0247 seconds
+Elapsed time: 2.7235 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0243 seconds
+Elapsed time: 2.5684 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.5529 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0247 seconds
+Elapsed time: 2.5646 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.5442 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.5665 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.6003 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.6103 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0238 seconds
+Elapsed time: 2.5946 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0254 seconds
+11 cores, 1000 lifetimes: 0.0026 seconds
+Running simulation with 12 core(s)...
+Elapsed time: 2.6021 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.5327 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.4670 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.6129 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0231 seconds
+Elapsed time: 2.5580 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.5629 seconds
+AOT-compiled simulation took: 0.0326 seconds
+AOT-compiled simulation took: 0.0261 seconds
+Elapsed time: 2.5577 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0260 seconds
+Elapsed time: 2.5836 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0245 seconds
+Elapsed time: 2.5458 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0260 seconds
+Elapsed time: 2.5432 seconds
+AOT-compiled simulation took: 0.0306 seconds
+AOT-compiled simulation took: 0.0242 seconds
+Elapsed time: 2.5629 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0258 seconds
+Elapsed time: 2.4729 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0258 seconds
+12 cores, 1000 lifetimes: 0.0024 seconds
+Running simulation with 13 core(s)...
+Elapsed time: 2.5314 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0251 seconds
+Elapsed time: 2.5558 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0253 seconds
+Elapsed time: 2.5463 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.5641 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.5613 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0263 seconds
+Elapsed time: 2.4798 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0260 seconds
+Elapsed time: 2.5994 seconds
+AOT-compiled simulation took: 0.0298 seconds
+AOT-compiled simulation took: 0.0242 seconds
+Elapsed time: 2.5824 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.5888 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.4688 seconds
+AOT-compiled simulation took: 0.0304 seconds
+AOT-compiled simulation took: 0.0266 seconds
+Elapsed time: 2.5509 seconds
+AOT-compiled simulation took: 0.0314 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.6173 seconds
+AOT-compiled simulation took: 0.0318 seconds
+AOT-compiled simulation took: 0.0248 seconds
+Elapsed time: 2.7191 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0229 seconds
+13 cores, 1000 lifetimes: 0.0023 seconds
+Running simulation with 14 core(s)...
+Elapsed time: 2.6283 seconds
+AOT-compiled simulation took: 0.0323 seconds
+AOT-compiled simulation took: 0.0236 seconds
+Elapsed time: 2.5001 seconds
+AOT-compiled simulation took: 0.0306 seconds
+AOT-compiled simulation took: 0.0246 seconds
+Elapsed time: 2.6780 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0253 seconds
+Elapsed time: 2.5677 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.6123 seconds
+AOT-compiled simulation took: 0.0321 seconds
+AOT-compiled simulation took: 0.0238 seconds
+Elapsed time: 2.4816 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0269 seconds
+Elapsed time: 2.5065 seconds
+AOT-compiled simulation took: 0.0303 seconds
+AOT-compiled simulation took: 0.0258 seconds
+Elapsed time: 2.7137 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0228 seconds
+Elapsed time: 2.5446 seconds
+AOT-compiled simulation took: 0.0306 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.6493 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0240 seconds
+Elapsed time: 2.5722 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.4827 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0258 seconds
+Elapsed time: 2.6424 seconds
+AOT-compiled simulation took: 0.0317 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.4789 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0262 seconds
+14 cores, 1000 lifetimes: 0.0021 seconds
+Running simulation with 15 core(s)...
+Elapsed time: 2.4807 seconds
+AOT-compiled simulation took: 0.0306 seconds
+AOT-compiled simulation took: 0.0263 seconds
+Elapsed time: 2.6020 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0248 seconds
+Elapsed time: 2.6440 seconds
+AOT-compiled simulation took: 0.0319 seconds
+AOT-compiled simulation took: 0.0243 seconds
+Elapsed time: 2.6416 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0243 seconds
+Elapsed time: 2.5660 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.6127 seconds
+AOT-compiled simulation took: 0.0320 seconds
+AOT-compiled simulation took: 0.0245 seconds
+Elapsed time: 2.8604 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0227 seconds
+Elapsed time: 2.5925 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.4825 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0268 seconds
+Elapsed time: 2.5124 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.6116 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0247 seconds
+Elapsed time: 2.5464 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.7076 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0238 seconds
+Elapsed time: 2.7295 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0236 seconds
+Elapsed time: 2.4622 seconds
+AOT-compiled simulation took: 0.0304 seconds
+AOT-compiled simulation took: 0.0256 seconds
+15 cores, 1000 lifetimes: 0.0021 seconds
+Running simulation with 16 core(s)...
+Elapsed time: 2.5744 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.5450 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.4667 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0269 seconds
+Elapsed time: 2.5382 seconds
+AOT-compiled simulation took: 0.0304 seconds
+AOT-compiled simulation took: 0.0260 seconds
+Elapsed time: 2.5857 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0253 seconds
+Elapsed time: 2.5577 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0258 seconds
+Elapsed time: 2.4694 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0263 seconds
+Elapsed time: 2.4650 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0264 seconds
+Elapsed time: 2.7798 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0226 seconds
+Elapsed time: 2.5011 seconds
+AOT-compiled simulation took: 0.0304 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.5611 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.5168 seconds
+AOT-compiled simulation took: 0.0313 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.5883 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.6097 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0230 seconds
+Elapsed time: 2.6721 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0237 seconds
+Elapsed time: 2.5547 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0260 seconds
+16 cores, 1000 lifetimes: 0.0019 seconds
+Running simulation with 17 core(s)...
+Elapsed time: 2.5395 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0258 seconds
+Elapsed time: 2.7879 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0243 seconds
+Elapsed time: 2.6391 seconds
+AOT-compiled simulation took: 0.0314 seconds
+AOT-compiled simulation took: 0.0246 seconds
+Elapsed time: 2.7218 seconds
+AOT-compiled simulation took: 0.0302 seconds
+AOT-compiled simulation took: 0.0235 seconds
+Elapsed time: 2.5257 seconds
+AOT-compiled simulation took: 0.0314 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.5973 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.6649 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.5724 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.5221 seconds
+AOT-compiled simulation took: 0.0305 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.6896 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0249 seconds
+Elapsed time: 2.5657 seconds
+AOT-compiled simulation took: 0.0315 seconds
+AOT-compiled simulation took: 0.0242 seconds
+Elapsed time: 2.4601 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0249 seconds
+Elapsed time: 2.4632 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0261 seconds
+Elapsed time: 2.5862 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0261 seconds
+Elapsed time: 2.4893 seconds
+AOT-compiled simulation took: 0.0301 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.6400 seconds
+AOT-compiled simulation took: 0.0320 seconds
+AOT-compiled simulation took: 0.0247 seconds
+Elapsed time: 2.5222 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0257 seconds
+17 cores, 1000 lifetimes: 0.0019 seconds
+Running simulation with 18 core(s)...
+Elapsed time: 2.5011 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.6484 seconds
+AOT-compiled simulation took: 0.0320 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.6108 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0240 seconds
+Elapsed time: 2.5513 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0263 seconds
+Elapsed time: 2.5748 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.5800 seconds
+AOT-compiled simulation took: 0.0306 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.5369 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.6074 seconds
+AOT-compiled simulation took: 0.0326 seconds
+AOT-compiled simulation took: 0.0244 seconds
+Elapsed time: 2.5113 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.5609 seconds
+AOT-compiled simulation took: 0.0315 seconds
+AOT-compiled simulation took: 0.0260 seconds
+Elapsed time: 2.6249 seconds
+AOT-compiled simulation took: 0.0315 seconds
+AOT-compiled simulation took: 0.0243 seconds
+Elapsed time: 2.5912 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0253 seconds
+Elapsed time: 2.5773 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.5464 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0262 seconds
+Elapsed time: 2.4703 seconds
+AOT-compiled simulation took: 0.0286 seconds
+AOT-compiled simulation took: 0.0268 seconds
+Elapsed time: 2.5911 seconds
+AOT-compiled simulation took: 0.0315 seconds
+AOT-compiled simulation took: 0.0247 seconds
+Elapsed time: 2.6486 seconds
+AOT-compiled simulation took: 0.0313 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.5636 seconds
+AOT-compiled simulation took: 0.0318 seconds
+AOT-compiled simulation took: 0.0258 seconds
+18 cores, 1000 lifetimes: 0.0019 seconds
+Running simulation with 19 core(s)...
+Elapsed time: 2.4932 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0258 seconds
+Elapsed time: 2.4958 seconds
+AOT-compiled simulation took: 0.0313 seconds
+AOT-compiled simulation took: 0.0265 seconds
+Elapsed time: 2.5045 seconds
+AOT-compiled simulation took: 0.0313 seconds
+AOT-compiled simulation took: 0.0261 seconds
+19 cores, 1000 lifetimes: 0.0018 seconds
+Elapsed time: 2.6629 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.5745 seconds
+AOT-compiled simulation took: 0.0313 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.6357 seconds
+AOT-compiled simulation took: 0.0316 seconds
+AOT-compiled simulation took: 0.0241 seconds
+Elapsed time: 2.5895 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.6384 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0247 seconds
+Elapsed time: 2.5143 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.5472 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.5557 seconds
+AOT-compiled simulation took: 0.0313 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.5862 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0257 seconds
+Elapsed time: 2.5382 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0262 seconds
+Elapsed time: 2.5215 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.5911 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.5994 seconds
+AOT-compiled simulation took: 0.0318 seconds
+AOT-compiled simulation took: 0.0248 seconds
+Elapsed time: 2.6161 seconds
+AOT-compiled simulation took: 0.0324 seconds
+AOT-compiled simulation took: 0.0243 seconds
+Elapsed time: 2.5746 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0250 seconds
+Elapsed time: 2.8409 seconds
+AOT-compiled simulation took: 0.0293 seconds
+AOT-compiled simulation took: 0.0232 seconds
+Running simulation with 20 core(s)...
+Elapsed time: 2.6211 seconds
+AOT-compiled simulation took: 0.0315 seconds
+AOT-compiled simulation took: 0.0241 seconds
+20 cores, 1000 lifetimes: 0.0016 seconds
+Elapsed time: 2.5242 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0262 seconds
+Elapsed time: 2.5884 seconds
+AOT-compiled simulation took: 0.0292 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.5608 seconds
+AOT-compiled simulation took: 0.0312 seconds
+AOT-compiled simulation took: 0.0269 seconds
+Elapsed time: 2.4777 seconds
+AOT-compiled simulation took: 0.0303 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.6334 seconds
+AOT-compiled simulation took: 0.0320 seconds
+AOT-compiled simulation took: 0.0242 seconds
+Elapsed time: 2.5744 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0256 seconds
+Elapsed time: 2.6088 seconds
+AOT-compiled simulation took: 0.0325 seconds
+AOT-compiled simulation took: 0.0252 seconds
+Elapsed time: 2.4730 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0259 seconds
+Elapsed time: 2.6440 seconds
+AOT-compiled simulation took: 0.0299 seconds
+AOT-compiled simulation took: 0.0247 seconds
+Elapsed time: 2.6108 seconds
+AOT-compiled simulation took: 0.0306 seconds
+AOT-compiled simulation took: 0.0251 seconds
+Elapsed time: 2.5290 seconds
+AOT-compiled simulation took: 0.0308 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.5800 seconds
+AOT-compiled simulation took: 0.0310 seconds
+AOT-compiled simulation took: 0.0254 seconds
+Elapsed time: 2.7355 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0229 seconds
+Elapsed time: 2.7087 seconds
+AOT-compiled simulation took: 0.0304 seconds
+AOT-compiled simulation took: 0.0235 seconds
+Elapsed time: 2.5602 seconds
+AOT-compiled simulation took: 0.0300 seconds
+AOT-compiled simulation took: 0.0245 seconds
+Elapsed time: 2.5791 seconds
+AOT-compiled simulation took: 0.0311 seconds
+AOT-compiled simulation took: 0.0255 seconds
+Elapsed time: 2.5897 seconds
+AOT-compiled simulation took: 0.0309 seconds
+AOT-compiled simulation took: 0.0258 seconds
+Elapsed time: 2.4774 seconds
+AOT-compiled simulation took: 0.0290 seconds
+AOT-compiled simulation took: 0.0260 seconds
+Elapsed time: 2.5119 seconds
+AOT-compiled simulation took: 0.0307 seconds
+AOT-compiled simulation took: 0.0258 seconds
