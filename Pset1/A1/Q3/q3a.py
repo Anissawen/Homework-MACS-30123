@@ -85,6 +85,6 @@ plt.close()
 
 # === Print Performance Comparison ===
 print("\n--- NDVI Computation Performance ---")
-print(f"✅ GPU (CUDA) Time     : {gpu_time:.4f} seconds")
-print(f"⏱ CPU (Serial NumPy)  : {cpu_time:.4f} seconds")
-print(f"⚡ Speedup (CPU / GPU) : {cpu_time / gpu_time:.2f}x")
+print(f"GPU (CUDA) Time     : {gpu_time:.4f} seconds")
+print(f"CPU (Serial NumPy)  : {cpu_time:.4f} seconds")
+print(f"Speedup (CPU / GPU) : {cpu_time / gpu_time:.2f}x")

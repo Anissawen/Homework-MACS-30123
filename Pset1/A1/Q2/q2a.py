@@ -58,3 +58,20 @@ if rank == 0:
     best_rho, best_avg = max(all_results, key=lambda x: x[1])
     print(f"✅ Optimal ρ: {best_rho:.5f}, Avg. time to z_t ≤ 0: {best_avg:.2f} periods")
     print(f"⏱️ Total grid search time: {elapsed:.4f} seconds on {size} cores")
+
+    import matplotlib.pyplot as plt
+
+    # Extract ρ values and average times directly
+    rho_vals = [item[0] for item in all_results]
+    avg_vals = [item[1] for item in all_results]
+
+    # Plot
+    plt.figure(figsize=(10, 6))
+    plt.plot(rho_vals, avg_vals, marker='o', markersize=3, linewidth=1, color='orange')
+    plt.xlabel("ρ (Persistence Parameter)")
+    plt.ylabel("Average Time to zₜ ≤ 0")
+    plt.title("Average Time Until First Negative Health Index vs ρ")
+    plt.grid(True)
+    plt.tight_layout()
+    plt.savefig("rho_vs_avg_fall_time.png")
+    plt.show()
