@@ -185,7 +185,7 @@ The simulations were executed in parallel on the Midway cluster using the SBATCH
 ### (b) Visualization of Simulation Outcomes
 After collecting the simulation results from the grid search, we visualize the relationship between the persistence parameter ($\rho$) and the average number of periods until the health index first falls to zero or below. In this plot, the x-axis represents the ρ values and the y-axis shows the corresponding average time to failure. This visualization provides an overview of the behavior of the system under different health persistence scenarios.
 
-![gird_search_results](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q2/grid_search_results.png)
+![grid_search_result](https://github.com/PaulWang-Uchicago/Homework-MACS-30123/blob/main/Pset1/A1/Q2/grid_search_results.png)
 
 ### (c) Optimal Parameter and Performance Metrics
 The gird search identified the following optimal parameter and performance metrics: 
