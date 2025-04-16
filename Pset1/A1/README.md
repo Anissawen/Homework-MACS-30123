@@ -98,7 +98,7 @@ In this section, we perform a grid search to determine the optimal persistence p
 
 The $\epsilon$ matrix—representing the random shocks affecting the health index—is generated on rank 0 using a fixed random seed and then broadcasted to all processes to ensure consistency across simulations. The simulation itself is performed using an AOT-compiled module ([q1a.py](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q1/q1a.py)), which significantly accelerates the calculation of the lifetimes.
 
-The following code ([q2a.py](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q1/q2a.py)) implements the grid search:
+The following code ([q2a.py](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q2/q2a.py)) implements the grid search:
 
 ``` python
 from mpi4py import MPI
@@ -180,17 +180,17 @@ if rank == 0:
     plt.show()
 ```
 
-The simulations were executed in parallel on the Midway cluster using the SBATCH file: [q2a.sh](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q1/q2a.sh). 
+The simulations were executed in parallel on the Midway cluster using the SBATCH file: [q2a.sh](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q2/q2a.sh). 
 
 ### (b) Visualization of Simulation Outcomes
 After collecting the simulation results from the grid search, we visualize the relationship between the persistence parameter ($\rho$) and the average number of periods until the health index first falls to zero or below. In this plot, the x-axis represents the ρ values and the y-axis shows the corresponding average time to failure. This visualization provides an overview of the behavior of the system under different health persistence scenarios.
 
-![gird_search_results](Pset1/A1/Q2/grid_search_results.png)
+![gird_search_results](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q2/grid_search_results.png)
 
 ### (c) Optimal Parameter and Performance Metrics
 The gird search identified the following optimal parameter and performance metrics: 
 - **Optimal $\rho$:** -0.03342
 - **Average time to $z_t \leq 0$:** 754.25 periods
 
-These results are also available in the output file [q2b.out](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q1/q2b.out). 
+These results are also available in the output file [q2b.out](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q2/q2b.out). 
 
