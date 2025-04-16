@@ -19,7 +19,7 @@ module load mpich
 for i in {1..20}
 do
   echo "Running simulation with $i core(s)..."
-  mpirun -n $i python3 pset1.py
+  mpirun -n $i python3 q1b.py
 done
 
 python q1b_plot.py
