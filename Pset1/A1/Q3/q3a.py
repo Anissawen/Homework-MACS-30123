@@ -4,7 +4,7 @@ import pycuda.driver as cuda
 import pycuda.autoinit
 from pycuda.compiler import SourceModule
 import time
-
+import matplotlib.pyplot as plt
 
 # Load the Satellite Bands
 red_band_path = '/project/macs30123/landsat8/LC08_B4.tif'  # red

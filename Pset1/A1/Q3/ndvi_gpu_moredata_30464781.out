@@ -1,0 +1,5 @@
+
+--- NDVI Computation Performance ---
+✅ GPU (CUDA) Time     : 0.0019 seconds
+⏱ CPU (Serial NumPy)  : 0.0217 seconds
+⚡ Speedup (CPU / GPU) : 11.56x
