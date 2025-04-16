@@ -83,7 +83,7 @@ if rank == 0:
 
 A plot summarizing the timing data was generated using code from [q1b_plot.py](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q1/q1b_plot.py). The plot demonstrates reduced execution times as the number of cores increases. 
 
-![q1b_plot](A1/Q1/q1b_plot.py)
+![q1b_plot](https://github.com/PaulWang-Uchicago/Homework-MACS-30123/blob/main/Pset1/A1/Q1/q1b_plot.png)
 
 ### (c) Discussion of Speedup
 (Your answer here)
