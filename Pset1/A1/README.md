@@ -194,3 +194,60 @@ The gird search identified the following optimal parameter and performance metri
 
 These results are also available in the output file [q2b.out](https://github.com/Anissawen/Homework-MACS-30123/blob/main/Pset1/A1/Q2/q2b.out). 
 
+---
+
+## Question 3: GPU Computation of NDVI and CPU Comparison
+
+### (a) GPU Computation of NDVI and CPU Comparison
+
+In this part of the assignment, we compute the Normalized Difference Vegetation Index (NDVI) from **Bands 4 and 5** of a provided Landsat scene.
+
+where:
+- **Band 4 (Red)** represents the red portion of the visible spectrum.
+- **Band 5 (NIR)** represents the near-infrared portion.
+
+The GPU-based NDVI computation is implemented in [q3a.py](https://github.com/PaulWang-Uchicago/MACS30123-Assignment-PaulWang/blob/main/A1/q3/q3a.py). This script leverages GPU acceleration by using PyCUDA to perform parallel processing of pixel values.
+
+``` python
+(q3a.py code)
+```
+
+For reference, the CPU-only implementation computes the NDVI using standard NumPy operations over the entire scene. The resulting NDVI map is saved as [gpu_ndvi.png](), which closely matches the provided reference image in the assignment prompt.
+
+![gpu_ndvi.png]()
+
+### (b) Timing Results and Execution Details
+
+The execution times for both implementations were recorded and are available in [q3a.out]():
+
+- **GPU NDVI Computation Time:** xxxx seconds  
+- **CPU NDVI Computation Time:** xxxx seconds  
+
+For small data sizes, the GPU overhead (e.g., kernel launches and data transfers between the host and device) can cause the GPU computation to be slower than the CPU version. The SLURM job submission was managed by [q3a.sh]().
+
+---
+
+### (c) Scaling Experiment
+
+To evaluate performance for larger datasets, the NDVI computation was extended using data tiling to simulate multiple Landsat scenes. The extended code, implemented in [q3c.py](https://github.com/PaulWang-Uchicago/MACS30123-Assignment-PaulWang/blob/main/A1/q3/q3c.py), processes the NDVI calculation for scaled-up versions of the original image.
+
+#### Performance Observations:
+
+- **Scaling Factor: 20x**  
+  - GPU NDVI Computation Time: 0.188254 seconds  
+  - CPU NDVI Computation Time: 0.743359 seconds  
+
+- **Scaling Factor: 50x**  
+  - GPU NDVI Computation Time: 0.500031 seconds  
+  - CPU NDVI Computation Time: 1.862294 seconds  
+
+- **Scaling Factor: 100x**  
+  - GPU NDVI Computation Time: 1.010000 seconds  
+  - CPU NDVI Computation Time: 3.719078 seconds  
+
+- **Scaling Factor: 150x**  
+  - GPU NDVI Computation Time: 1.579718 seconds  
+  - CPU NDVI Computation Time: 5.612612 seconds  
+
+These results, documented in [q3c.out](), clearly indicate that while the GPU has initial overhead for small-scale data, it scales significantly better than the CPU for larger datasets due to its highly parallel architecture.
+---
