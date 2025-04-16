@@ -1,14 +1,7 @@
-# Pset1 MACS30123
-### Student Name: Siqi Wen 
-### Student ID: 12451279
-# P1
-### (a)
-### codes:
-
-```python
 import numpy as np
 import scipy.stats as sts
 import time
+import q1a
 
 # Set model parameters
 rho = 0.5
@@ -34,21 +27,11 @@ for s_ind in range(S):
         z_mat[t_ind, s_ind] = z_t
         z_tm1 = z_t
 end_time = time.time()
-print(f"Elapsed time: {end_time - start_time:.4f} seconds")
-```
+print(f"Without AOT-compiled simulation took: {end_time - start_time:.4f} seconds")
 
+# Time performance
+start = time.time()
+q1a.simulate_lifetimes(z_mat, eps_mat, rho, mu, sigma, S, T)
+end = time.time()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Bold**, *Italic*, `Code`
+print(f"AOT-compiled simulation took: {end - start:.4f} seconds")
